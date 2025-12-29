@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ittisha17/CodingPractice/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ittisha17/CodingPractice/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ittisha17/CodingPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
 ## Binary Search
@@ -45,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ittisha17/CodingPractice/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
