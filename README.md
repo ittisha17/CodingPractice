@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ittisha17/CodingPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/ittisha17/CodingPractice/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ittisha17/CodingPractice/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ittisha17/CodingPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ittisha17/CodingPractice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/ittisha17/CodingPractice/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
