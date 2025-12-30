@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ittisha17/CodingPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/ittisha17/CodingPractice/tree/master/0228-summary-ranges) |
+| [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/ittisha17/CodingPractice/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 ## Counting
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ittisha17/CodingPractice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
