@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ittisha17/CodingPractice/tree/master/0011-container-with-most-water) |
+| [0086-partition-list](https://github.com/ittisha17/CodingPractice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ittisha17/CodingPractice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ittisha17/CodingPractice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ittisha17/CodingPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ittisha17/CodingPractice/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ittisha17/CodingPractice/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ittisha17/CodingPractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
