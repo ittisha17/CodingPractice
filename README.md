@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ittisha17/CodingPractice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0073-set-matrix-zeroes) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ittisha17/CodingPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/ittisha17/CodingPractice/tree/master/0228-summary-ranges) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ittisha17/CodingPractice/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 ## Prefix Sum
 |  |
