@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/ittisha17/CodingPractice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ittisha17/CodingPractice/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ittisha17/CodingPractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ittisha17/CodingPractice/tree/master/1207-unique-number-of-occurrences) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ittisha17/CodingPractice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 ## Stack
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ittisha17/CodingPractice/tree/master/0021-merge-two-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
