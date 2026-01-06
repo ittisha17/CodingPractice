@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ittisha17/CodingPractice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ittisha17/CodingPractice/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ittisha17/CodingPractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ittisha17/CodingPractice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ittisha17/CodingPractice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ittisha17/CodingPractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
