@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ittisha17/CodingPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/ittisha17/CodingPractice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ittisha17/CodingPractice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ittisha17/CodingPractice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
 | [1975-maximum-matrix-sum](https://github.com/ittisha17/CodingPractice/tree/master/1975-maximum-matrix-sum) |
 ## Simulation
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ittisha17/CodingPractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/ittisha17/CodingPractice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ittisha17/CodingPractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/ittisha17/CodingPractice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/ittisha17/CodingPractice/tree/master/0137-single-number-ii) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
