@@ -203,8 +203,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/ittisha17/CodingPractice/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/ittisha17/CodingPractice/tree/master/0191-number-of-1-bits) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ittisha17/CodingPractice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
