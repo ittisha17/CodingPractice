@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ittisha17/CodingPractice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ittisha17/CodingPractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/ittisha17/CodingPractice/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/ittisha17/CodingPractice/tree/master/1207-unique-number-of-occurrences) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/ittisha17/CodingPractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ittisha17/CodingPractice/tree/master/0191-number-of-1-bits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
