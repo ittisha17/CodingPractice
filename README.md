@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ittisha17/CodingPractice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ittisha17/CodingPractice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ittisha17/CodingPractice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ittisha17/CodingPractice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ittisha17/CodingPractice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0073-set-matrix-zeroes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ittisha17/CodingPractice/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ittisha17/CodingPractice/tree/master/0055-jump-game) |
 | [1975-maximum-matrix-sum](https://github.com/ittisha17/CodingPractice/tree/master/1975-maximum-matrix-sum) |
 ## Math
 |  |
@@ -256,5 +258,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ittisha17/CodingPractice/tree/master/0055-jump-game) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
