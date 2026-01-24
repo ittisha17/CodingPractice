@@ -1,32 +1,29 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int st=0;
-        int end=0;
-        int n=s.length();
-        set<char> visited;
+        int start=0;
         int i=0;
+        //int end;
+        //if(s==" ") return 1;
+        int n=s.length();
         int ln=0;
+        set<char> st;
         while(i<n)
-        {
-            if(visited.find(s[i])!=visited.end()) //not ditinct
+        { 
+            if(st.find(s[i])!=st.end()) //duplicate character
             {
-               ln=max(ln,i-st);
-               while(st<i && s[st]!=s[i])
-                {  visited.erase(s[st]);
-                    st++;
+                ln=max(i-start,ln);
+                while(st.find(s[i])!=st.end())
+                {
+                    st.erase(s[start]);
+                    start++;
                 }
-                visited.erase(s[st]);
-                st++;
             }
-            else
-            {
-                visited.insert(s[i]);
-                i++;
-            }
+            st.insert(s[i]);
+            i++;
+              
         }
-          ln = max(ln, n - st); //last windpow
+        ln=max(n-start,ln);
         return ln;
-        
     }
 };
