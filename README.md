@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/ittisha17/CodingPractice/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ittisha17/CodingPractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/ittisha17/CodingPractice/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/ittisha17/CodingPractice/tree/master/1207-unique-number-of-occurrences) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ittisha17/CodingPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ittisha17/CodingPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ittisha17/CodingPractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/ittisha17/CodingPractice/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
