@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ittisha17/CodingPractice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ittisha17/CodingPractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ittisha17/CodingPractice/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ittisha17/CodingPractice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
 |  |
 | ------- |
