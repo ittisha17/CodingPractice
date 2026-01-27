@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ittisha17/CodingPractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ittisha17/CodingPractice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ittisha17/CodingPractice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ittisha17/CodingPractice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ittisha17/CodingPractice/tree/master/0238-product-of-array-except-self) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ittisha17/CodingPractice/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/ittisha17/CodingPractice/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ittisha17/CodingPractice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ittisha17/CodingPractice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ittisha17/CodingPractice/tree/master/0290-word-pattern) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ittisha17/CodingPractice/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/ittisha17/CodingPractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
