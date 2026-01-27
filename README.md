@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ittisha17/CodingPractice/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ittisha17/CodingPractice/tree/master/0901-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -293,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ittisha17/CodingPractice/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ittisha17/CodingPractice/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ittisha17/CodingPractice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
