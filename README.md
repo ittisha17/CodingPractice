@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ittisha17/CodingPractice/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ittisha17/CodingPractice/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ittisha17/CodingPractice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ittisha17/CodingPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ittisha17/CodingPractice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ittisha17/CodingPractice/tree/master/0062-unique-paths) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Heap (Priority Queue)
 |  |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ittisha17/CodingPractice/tree/master/0901-online-stock-span) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ittisha17/CodingPractice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
