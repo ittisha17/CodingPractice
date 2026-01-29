@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ittisha17/CodingPractice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ittisha17/CodingPractice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ittisha17/CodingPractice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ittisha17/CodingPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ittisha17/CodingPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ittisha17/CodingPractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/ittisha17/CodingPractice/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ittisha17/CodingPractice/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ittisha17/CodingPractice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ittisha17/CodingPractice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ittisha17/CodingPractice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ittisha17/CodingPractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ittisha17/CodingPractice/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/ittisha17/CodingPractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ittisha17/CodingPractice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ittisha17/CodingPractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ittisha17/CodingPractice/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 ## Union Find
 |  |
 | ------- |
