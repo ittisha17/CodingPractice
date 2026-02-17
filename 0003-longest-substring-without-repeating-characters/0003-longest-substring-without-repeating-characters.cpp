@@ -2,17 +2,15 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int start=0;
-        int i=0;
-        //int end;
-        //if(s==" ") return 1;
         int n=s.length();
-        int ln=0;
+        int i=0;
         set<char> st;
+        int ln=0;
         while(i<n)
-        { 
-            if(st.find(s[i])!=st.end()) //duplicate character
-            {
-                ln=max(i-start,ln);
+        {
+            if(st.find(s[i])!=st.end()) //if already appeared
+            {  
+                ln=max(ln,i-start);
                 while(st.find(s[i])!=st.end())
                 {
                     st.erase(s[start]);
@@ -21,9 +19,8 @@ public:
             }
             st.insert(s[i]);
             i++;
-              
         }
-        ln=max(n-start,ln);
+        ln=max(ln,n-start);
         return ln;
     }
 };
