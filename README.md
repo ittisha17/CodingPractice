@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ittisha17/CodingPractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ittisha17/CodingPractice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ittisha17/CodingPractice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ittisha17/CodingPractice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 ## Hash Table
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ittisha17/CodingPractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ittisha17/CodingPractice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/ittisha17/CodingPractice/tree/master/0231-power-of-two) |
 ## Counting Sort
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ittisha17/CodingPractice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ittisha17/CodingPractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ittisha17/CodingPractice/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ittisha17/CodingPractice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 ## Union Find
 |  |
