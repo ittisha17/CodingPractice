@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ittisha17/CodingPractice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ittisha17/CodingPractice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/ittisha17/CodingPractice/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/ittisha17/CodingPractice/tree/master/0130-surrounded-regions) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ittisha17/CodingPractice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ittisha17/CodingPractice/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ittisha17/CodingPractice/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ittisha17/CodingPractice/tree/master/0078-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ittisha17/CodingPractice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ittisha17/CodingPractice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ittisha17/CodingPractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ittisha17/CodingPractice/tree/master/0191-number-of-1-bits) |
