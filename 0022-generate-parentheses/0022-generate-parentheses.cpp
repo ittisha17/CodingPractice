@@ -2,8 +2,6 @@
 
 void solve(int open,int closed,vector<string>&res,string &curr,int n)
 {  
-    if(closed>open)
-     return;
     if(curr.length()==2*n)
      res.push_back(curr);
     if(open<n)
