@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ittisha17/CodingPractice/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ittisha17/CodingPractice/tree/master/0901-online-stock-span) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ittisha17/CodingPractice/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/ittisha17/CodingPractice/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/ittisha17/CodingPractice/tree/master/0981-time-based-key-value-store) |
 ## Data Stream
