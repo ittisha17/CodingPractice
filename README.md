@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ittisha17/CodingPractice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ittisha17/CodingPractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ittisha17/CodingPractice/tree/master/1207-unique-number-of-occurrences) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ittisha17/CodingPractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1975-maximum-matrix-sum](https://github.com/ittisha17/CodingPractice/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ittisha17/CodingPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ittisha17/CodingPractice/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/ittisha17/CodingPractice/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ittisha17/CodingPractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ittisha17/CodingPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ittisha17/CodingPractice/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/ittisha17/CodingPractice/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ittisha17/CodingPractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
 | ------- |
