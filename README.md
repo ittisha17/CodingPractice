@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ittisha17/CodingPractice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ittisha17/CodingPractice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ittisha17/CodingPractice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Union Find
 |  |
 | ------- |
