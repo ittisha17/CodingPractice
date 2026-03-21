@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int minFlips(int a, int b, int c) {
+        int cnt=0;
+        for(int i=0;i<32;i++)
+        {
+            if(c & 1<<i) //set in c
+             {
+                if((a & 1<<i)==0 && (b& 1<<i)==0) //a nnd b dono ka unset
+                 cnt++;
+             }
+            else //unset in c
+            {
+                if(a & 1<<i)
+                 cnt++;
+                if(b& 1<<i)
+                 cnt++;
+            }
+
+        }
+        return cnt;
+    }
+};
