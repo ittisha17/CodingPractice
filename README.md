@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ittisha17/CodingPractice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ittisha17/CodingPractice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ittisha17/CodingPractice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ittisha17/CodingPractice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ittisha17/CodingPractice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ittisha17/CodingPractice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ittisha17/CodingPractice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ittisha17/CodingPractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ittisha17/CodingPractice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ittisha17/CodingPractice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ittisha17/CodingPractice/tree/master/0216-combination-sum-iii) |
 ## Recursion
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ittisha17/CodingPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ittisha17/CodingPractice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ittisha17/CodingPractice/tree/master/0062-unique-paths) |
+| [0131-palindrome-partitioning](https://github.com/ittisha17/CodingPractice/tree/master/0131-palindrome-partitioning) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Heap (Priority Queue)
 |  |
