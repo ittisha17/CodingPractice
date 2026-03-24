@@ -9,7 +9,7 @@ public:
         st.push(0);
         for(int i=1;i<n;i++)
         {
-            while(!st.empty() && arr[st.top()]>arr[i])
+            while(!st.empty() && arr[st.top()]>=arr[i])
              st.pop();
             if(st.empty())
              ps[i]=-1;
@@ -23,7 +23,7 @@ public:
         st2.push(n-1);
         for(int i=n-2;i>=0;i--)
         {
-            while(!st2.empty() && arr[st2.top()]>=arr[i])
+            while(!st2.empty() && arr[st2.top()]>arr[i])
              st2.pop();
             if(!st2.empty())
              ns[i]=st2.top();
