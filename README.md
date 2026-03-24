@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ittisha17/CodingPractice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ittisha17/CodingPractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ittisha17/CodingPractice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1856-maximum-subarray-min-product](https://github.com/ittisha17/CodingPractice/tree/master/1856-maximum-subarray-min-product) |
 | [1975-maximum-matrix-sum](https://github.com/ittisha17/CodingPractice/tree/master/1975-maximum-matrix-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ittisha17/CodingPractice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ittisha17/CodingPractice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ittisha17/CodingPractice/tree/master/0907-sum-of-subarray-minimums) |
+| [1856-maximum-subarray-min-product](https://github.com/ittisha17/CodingPractice/tree/master/1856-maximum-subarray-min-product) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ittisha17/CodingPractice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ittisha17/CodingPractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ittisha17/CodingPractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1856-maximum-subarray-min-product](https://github.com/ittisha17/CodingPractice/tree/master/1856-maximum-subarray-min-product) |
 ## Linked List
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ittisha17/CodingPractice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ittisha17/CodingPractice/tree/master/0907-sum-of-subarray-minimums) |
+| [1856-maximum-subarray-min-product](https://github.com/ittisha17/CodingPractice/tree/master/1856-maximum-subarray-min-product) |
 ## Dynamic Programming
 |  |
 | ------- |
