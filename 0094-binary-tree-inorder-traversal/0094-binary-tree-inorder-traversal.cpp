@@ -9,23 +9,37 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-void traverse(TreeNode* root,vector<int>&res)
-{  
-    if(!root) return;
-    if(root)
-    {  
-        traverse(root->left,res);
-        res.push_back(root->val);
-        traverse(root->right,res);
-    }
-}
-
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> res;
-        traverse(root,res);
+        stack<pair<TreeNode*,int>> st;
+        st.push({root,0});
+        while(!st.empty())
+        {
+            auto temp=st.top();
+            if(!temp.first) 
+            { st.pop();
+             continue;
+            } 
+            if(temp.second==0)  //stae 0 explore left
+            { 
+               st.top().second++; //increment state to 1
+               st.push({temp.first->left,0});  
+            }
+            else if(temp.second==1) //left child explored include current
+            {
+                res.push_back(temp.first->val);
+                st.top().second++;
+                st.push({temp.first->right,0});
+            }
+            else //state 2 left right explore now remove
+            {
+                 st.pop();
+            }
+
+        }
         return res;
+        
     }
 };
