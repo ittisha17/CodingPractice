@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ittisha17/CodingPractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ittisha17/CodingPractice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ittisha17/CodingPractice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/ittisha17/CodingPractice/tree/master/0733-flood-fill) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ittisha17/CodingPractice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/ittisha17/CodingPractice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/ittisha17/CodingPractice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
@@ -492,9 +494,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ittisha17/CodingPractice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ittisha17/CodingPractice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
