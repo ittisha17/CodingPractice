@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ittisha17/CodingPractice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ittisha17/CodingPractice/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/ittisha17/CodingPractice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ittisha17/CodingPractice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ittisha17/CodingPractice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ittisha17/CodingPractice/tree/master/0131-palindrome-partitioning) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ittisha17/CodingPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ittisha17/CodingPractice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ittisha17/CodingPractice/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/ittisha17/CodingPractice/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ittisha17/CodingPractice/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/ittisha17/CodingPractice/tree/master/0213-house-robber-ii) |
