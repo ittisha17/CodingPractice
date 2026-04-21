@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ittisha17/CodingPractice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/ittisha17/CodingPractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ittisha17/CodingPractice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ittisha17/CodingPractice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ittisha17/CodingPractice/tree/master/0205-isomorphic-strings) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/ittisha17/CodingPractice/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ittisha17/CodingPractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/ittisha17/CodingPractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ittisha17/CodingPractice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0206-reverse-linked-list) |
 ## Tree
