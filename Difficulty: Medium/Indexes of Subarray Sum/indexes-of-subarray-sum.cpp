@@ -3,28 +3,29 @@ class Solution {
     vector<int> subarraySum(vector<int> &arr, int target) {
         // code here
         vector<int> res;
-        int st=0;
-        int i=0;
         int n=arr.size();
         int sum=0;
-        while(i<n)
+        int st=0;
+        for(int i=0;i<n;i++)
         {
             sum+=arr[i];
-            while(sum>target)
+           
+            while(sum>target && st<n)
             {
                 sum-=arr[st];
                 st++;
             }
-            if(sum==target)
-            { res.push_back(st+1);
-              res.push_back(i+1);
-             return res;
+             if(sum==target)
+            {
+                res.push_back(st+1);
+                res.push_back(i+1);
+                break;
             }
-            i++;
-            
         }
         if(res.size()==0)
-         res.push_back(-1);
+         return {-1};
         return res;
+        
+       
     }
 };
