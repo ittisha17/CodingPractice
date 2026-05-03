@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ittisha17/CodingPractice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ittisha17/CodingPractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ittisha17/CodingPractice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/ittisha17/CodingPractice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ittisha17/CodingPractice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/ittisha17/CodingPractice/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/ittisha17/CodingPractice/tree/master/0740-delete-and-earn) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ittisha17/CodingPractice/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0931-minimum-falling-path-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/ittisha17/CodingPractice/tree/master/2305-fair-distribution-of-cookies) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ittisha17/CodingPractice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ittisha17/CodingPractice/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/ittisha17/CodingPractice/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ittisha17/CodingPractice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ittisha17/CodingPractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
@@ -582,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bitmask
 |  |
 | ------- |
