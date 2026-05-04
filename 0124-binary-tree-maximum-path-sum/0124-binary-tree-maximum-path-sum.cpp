@@ -9,7 +9,6 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 int Max_path(TreeNode*root,int &mx_sum)
 {
     if(!root)
