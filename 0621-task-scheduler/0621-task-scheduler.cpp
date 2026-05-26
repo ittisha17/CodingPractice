@@ -20,4 +20,5 @@ public:
        int ans=max(ln,(mx_freq-1)*(n+1)+cnt_mx);
        return ans;
     }
+    
 };
