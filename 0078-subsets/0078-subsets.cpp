@@ -1,18 +1,24 @@
+
+void subs(int id,int n,vector<int>&nums,vector<int>&temp,vector<vector<int>>&res)
+{
+    if(id==n)
+    { res.push_back(temp);
+     return;
+   }
+    
+    temp.push_back(nums[id]);
+    subs(id+1,n,nums,temp,res);
+    temp.pop_back();
+    subs(id+1,n,nums,temp,res);
+}
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> res;
+        int id=0;
         int n=nums.size();
-        for(int mask=0;mask<(1<<n);mask++)
-        {  vector<int> temp;;
-           for(int i=0;i<n;i++)
-           {
-             if((mask>>i)&1)
-              temp.push_back(nums[i]);
-            }
-            res.push_back(temp);
-        }
+        vector<int>temp;
+        subs(id,n,nums,temp,res);
         return res;
-
     }
 };
