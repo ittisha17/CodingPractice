@@ -10,7 +10,7 @@ public:
             if(height[j]>=height[i])
             {
                 mxar=max(mxar,(j-i)*height[i]);
-                j=n-1;
+                //j=n-1;
                 i++;
             }
             else
