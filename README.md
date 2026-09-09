@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ittisha17/CodingPractice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ittisha17/CodingPractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ittisha17/CodingPractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/ittisha17/CodingPractice/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0583-delete-operation-for-two-strings) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ittisha17/CodingPractice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ittisha17/CodingPractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ittisha17/CodingPractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ittisha17/CodingPractice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ittisha17/CodingPractice/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/ittisha17/CodingPractice/tree/master/0740-delete-and-earn) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ittisha17/CodingPractice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ittisha17/CodingPractice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ittisha17/CodingPractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ittisha17/CodingPractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ittisha17/CodingPractice/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/ittisha17/CodingPractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ittisha17/CodingPractice/tree/master/0992-subarrays-with-k-different-integers) |
