@@ -1,12 +1,3 @@
-
-struct myCmp
-{
-    bool operator()(pair<int,int>&p1,pair<int,int>&p2)
-    {
-        return p1.second>p2.second;
-    }
-};
-
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
@@ -18,36 +9,37 @@ public:
             int w=times[i][2];
             adj[u].push_back({v,w});
         }
-        vector<int> dist(n+1,INT_MAX);
+
+        vector<int>dist(n+1,INT_MAX);
         dist[k]=0;
-        priority_queue<pair<int,int>,vector<pair<int,int>>,myCmp> pq;
-        pq.push({k,0});  //node and distance
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        pq.push({0,k}); //dist and node
         while(!pq.empty())
         {
             auto p=pq.top();
-            int u=p.first;
-            int w=p.second;
+            int u=p.second;
+            int d=p.first;
             pq.pop();
-            if(w>dist[u]) continue;
-            for(auto V:adj[u])
+            if(d>dist[u]) continue;
+            for(auto pv:adj[u])
             {
-                int v=V.first;
-                int dst=V.second;
-                int new_dst=dist[u]+dst;
-                if(new_dst<dist[v])
-                {
-                    dist[v]=new_dst;
-                    pq.push({v,dist[v]});
-                }
-             }
+                int v=pv.first;
+                int w=pv.second;
+                if(dist[u]+w<dist[v])
+                 {
+                    dist[v]=dist[u]+w;
+                    pq.push({dist[v],v});
+                 }
+            }
         }
-       
-       int ans=INT_MIN;
-        for(int i=1;i<=n;i++)
-          ans=max(ans,dist[i]);
-        if(ans==INT_MAX)
-          ans=-1;
-        return ans;
 
+        int res=0;
+        for(int i=1;i<=n;i++)
+        {
+          if(dist[i]==INT_MAX)
+           return -1;
+          res=max(res,dist[i]);
+        }
+        return res;
     }
 };
