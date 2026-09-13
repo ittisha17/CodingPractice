@@ -9,20 +9,22 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-int height(TreeNode*root,int &mx_h)
+
+
+int mxDepth(TreeNode*root,int &diameter)
 {
     if(!root) return 0;
-    int left=height(root->left,mx_h);
-    int right=height(root->right,mx_h);
-    mx_h=max(mx_h,left +right);
-    return 1+max(left,right);
-}
+    int lh=mxDepth(root->left,diameter);
+    int rh=mxDepth(root->right,diameter);
+    diameter=max(diameter,lh+rh);
+    return 1+max(lh,rh);
 
+} 
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        int mx_h=0;
-        height(root,mx_h);
-        return mx_h;
+        int diameter=0;
+        mxDepth(root,diameter);
+        return diameter;
     }
 };
