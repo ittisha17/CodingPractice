@@ -1,10 +1,9 @@
 
-
-bool valid(vector<int>&curr_freq,vector<int>&req_freq,set<char>&st)
+bool isPossible(vector<int>&curr_freq,vector<int>&req_freq)
 {
-    for(auto x:st)
+    for(int i=0;i<256;i++)
     {
-        if(curr_freq[x]<req_freq[x])
+        if(curr_freq[i]<req_freq[i])
          return false;
     }
     return true;
@@ -13,46 +12,50 @@ bool valid(vector<int>&curr_freq,vector<int>&req_freq,set<char>&st)
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int m=s.length();
-        int n=t.length();
-        vector<int> curr_freq(256,0);
+        set<char> req_char;
         vector<int> req_freq(256,0);
-        set<char> st;
-        for(int i=0;i<n;i++)
-        {
-            req_freq[t[i]]++;
-            st.insert(t[i]);
-        }
-        int ln=INT_MAX;
-        int start=0;
-        int i=0;
-        set<char> matched;
-        int idx=-1;
-        while(i<m)
-        {   
-            curr_freq[s[i]]++;
-            if(st.find(s[i])!=st.end()) //character of t
-             matched.insert(s[i]);
-            while(matched.size() == st.size() && valid(curr_freq,req_freq,st) )  //all characters found
-            {       
-                    int cur_len=i-start+1;
-                    if(cur_len<ln)
-                    {
-                        ln=cur_len;
-                        idx=start;
-                    }
-                    curr_freq[s[start]]--;
-                    if(curr_freq[s[start]]==0 && st.find(s[start])!=st.end()) //character of t and not  anymore in curr window
-                    matched.erase(s[start]);
-                    //ch_matched--;
-                    start++;
-            }
-            i++;
-        }
-        if(idx==-1)
-         return "";
-        else
-         return s.substr(idx,ln);
+        vector<int> curr_freq(256,0);
+
+        for(auto ch:t)
+         { req_char.insert(ch);
+           req_freq[ch]++;
+         }
+         
+         int n=s.length();
+         int i=0;
+         int st=0;
+         int match_char_cnt=0;
+         int ln=INT_MAX;
+         int st_idx=st;
+         set<char> matched;
+         while(i<n)
+         { 
+           curr_freq[s[i]]++;
+           if(req_char.find(s[i])!=req_char.end()) //char of t
+            matched.insert(s[i]);
+           if(matched.size()==req_char.size()) //all characters matched
+           {
+             while(st<=i && isPossible(curr_freq,req_freq))
+             {  
+                int curr_ln=i-st+1;
+                if(curr_ln<ln)
+                {
+                    ln=curr_ln;
+                    st_idx=st;
+                }
+               curr_freq[s[st]]=max(curr_freq[s[st]]-1,0);
+               if(curr_freq[s[st]]==0)
+                matched.erase(s[st]);
+               st++;
+             }
+           }
+           i++;
+           
+         }
+         if(ln==INT_MAX)
+          return "";
+         return s.substr(st_idx,ln);;
+
         
     }
 };
