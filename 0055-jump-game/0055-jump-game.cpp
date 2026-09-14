@@ -1,18 +1,24 @@
 class Solution {
 public:
-    bool canJump(vector<int>& nums) {
-        int n=nums.size();
-        vector<bool> dp(n,false);
-        dp[n-1]=true;
+    bool canJump(vector<int>& arr) {
+        int n=arr.size();
+        vector<int> dp(n,-1);
+        dp[n-1]=1;
         for(int i=n-2;i>=0;i--)
-        {   
-            for(int k=i;k<=i+nums[i] && k<n;k++)
+        {
+           if(arr[i]+i>=n-1)
+            dp[i]=1;
+           else
+           {
+             for(int j=i+1;j<=arr[i]+i;j++)
              {
-                if(dp[k]==true)
-                 {dp[i]=true;
-                 break;}
+                if(dp[j]==1)
+              {   dp[i]=1;
+                 break;
              }
+             }
+           }
         }
-        return dp[0];
+        return dp[0]==1?true:false;
     }
 };
