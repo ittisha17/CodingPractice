@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ittisha17/CodingPractice/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/ittisha17/CodingPractice/tree/master/0981-time-based-key-value-store) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ittisha17/CodingPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ittisha17/CodingPractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/ittisha17/CodingPractice/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ittisha17/CodingPractice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ittisha17/CodingPractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ittisha17/CodingPractice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ittisha17/CodingPractice/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/ittisha17/CodingPractice/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/ittisha17/CodingPractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ittisha17/CodingPractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/ittisha17/CodingPractice/tree/master/0354-russian-doll-envelopes) |
 | [0621-task-scheduler](https://github.com/ittisha17/CodingPractice/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ittisha17/CodingPractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ittisha17/CodingPractice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/ittisha17/CodingPractice/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ittisha17/CodingPractice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ittisha17/CodingPractice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/ittisha17/CodingPractice/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ittisha17/CodingPractice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
@@ -600,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ittisha17/CodingPractice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ittisha17/CodingPractice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ittisha17/CodingPractice/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ittisha17/CodingPractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ittisha17/CodingPractice/tree/master/1631-path-with-minimum-effort) |
