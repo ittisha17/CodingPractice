@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/ittisha17/CodingPractice/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/ittisha17/CodingPractice/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ittisha17/CodingPractice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ittisha17/CodingPractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-time-based-key-value-store](https://github.com/ittisha17/CodingPractice/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ittisha17/CodingPractice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ittisha17/CodingPractice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/ittisha17/CodingPractice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ittisha17/CodingPractice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ittisha17/CodingPractice/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ittisha17/CodingPractice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ittisha17/CodingPractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ittisha17/CodingPractice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ittisha17/CodingPractice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/ittisha17/CodingPractice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ittisha17/CodingPractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
@@ -684,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0543-diameter-of-binary-tree) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ittisha17/CodingPractice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
