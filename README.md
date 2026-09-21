@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ittisha17/CodingPractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ittisha17/CodingPractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0980-unique-paths-iii](https://github.com/ittisha17/CodingPractice/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ittisha17/CodingPractice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/ittisha17/CodingPractice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ittisha17/CodingPractice/tree/master/1004-max-consecutive-ones-iii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ittisha17/CodingPractice/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/ittisha17/CodingPractice/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/ittisha17/CodingPractice/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ittisha17/CodingPractice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ittisha17/CodingPractice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ittisha17/CodingPractice/tree/master/1631-path-with-minimum-effort) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/ittisha17/CodingPractice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ittisha17/CodingPractice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ittisha17/CodingPractice/tree/master/0216-combination-sum-iii) |
+| [0980-unique-paths-iii](https://github.com/ittisha17/CodingPractice/tree/master/0980-unique-paths-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/ittisha17/CodingPractice/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
 |  |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ittisha17/CodingPractice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ittisha17/CodingPractice/tree/master/0371-sum-of-two-integers) |
+| [0980-unique-paths-iii](https://github.com/ittisha17/CodingPractice/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ittisha17/CodingPractice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2305-fair-distribution-of-cookies](https://github.com/ittisha17/CodingPractice/tree/master/2305-fair-distribution-of-cookies) |
 ## Union Find
@@ -736,4 +740,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/ittisha17/CodingPractice/tree/master/0778-swim-in-rising-water) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/ittisha17/CodingPractice/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
