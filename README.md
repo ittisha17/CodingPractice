@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ittisha17/CodingPractice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/ittisha17/CodingPractice/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ittisha17/CodingPractice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ittisha17/CodingPractice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ittisha17/CodingPractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ittisha17/CodingPractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ittisha17/CodingPractice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/ittisha17/CodingPractice/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ittisha17/CodingPractice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ittisha17/CodingPractice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ittisha17/CodingPractice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ittisha17/CodingPractice/tree/master/1631-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/ittisha17/CodingPractice/tree/master/1975-maximum-matrix-sum) |
 ## Simulation
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ittisha17/CodingPractice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ittisha17/CodingPractice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ittisha17/CodingPractice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ittisha17/CodingPractice/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ittisha17/CodingPractice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ittisha17/CodingPractice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ittisha17/CodingPractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ittisha17/CodingPractice/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ittisha17/CodingPractice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/ittisha17/CodingPractice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ittisha17/CodingPractice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ittisha17/CodingPractice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -682,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ittisha17/CodingPractice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bitmask
 |  |
 | ------- |
@@ -699,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/ittisha17/CodingPractice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ittisha17/CodingPractice/tree/master/0778-swim-in-rising-water) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ittisha17/CodingPractice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -744,4 +751,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/ittisha17/CodingPractice/tree/master/0980-unique-paths-iii) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ittisha17/CodingPractice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
