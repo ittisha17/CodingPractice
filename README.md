@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/ittisha17/CodingPractice/tree/master/0740-delete-and-earn) |
 | [0778-swim-in-rising-water](https://github.com/ittisha17/CodingPractice/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/ittisha17/CodingPractice/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/ittisha17/CodingPractice/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ittisha17/CodingPractice/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/ittisha17/CodingPractice/tree/master/0930-binary-subarrays-with-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ittisha17/CodingPractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/ittisha17/CodingPractice/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/ittisha17/CodingPractice/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/ittisha17/CodingPractice/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/ittisha17/CodingPractice/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ittisha17/CodingPractice/tree/master/0994-rotting-oranges) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/ittisha17/CodingPractice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/ittisha17/CodingPractice/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ittisha17/CodingPractice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/ittisha17/CodingPractice/tree/master/1192-critical-connections-in-a-network) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/ittisha17/CodingPractice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/ittisha17/CodingPractice/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/ittisha17/CodingPractice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ittisha17/CodingPractice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/ittisha17/CodingPractice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ittisha17/CodingPractice/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/ittisha17/CodingPractice/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ittisha17/CodingPractice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ittisha17/CodingPractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ittisha17/CodingPractice/tree/master/1631-path-with-minimum-effort) |
