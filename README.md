@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ittisha17/CodingPractice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ittisha17/CodingPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/ittisha17/CodingPractice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ittisha17/CodingPractice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ittisha17/CodingPractice/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/ittisha17/CodingPractice/tree/master/0072-edit-distance) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ittisha17/CodingPractice/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ittisha17/CodingPractice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ittisha17/CodingPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ittisha17/CodingPractice/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/ittisha17/CodingPractice/tree/master/0621-task-scheduler) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ittisha17/CodingPractice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ittisha17/CodingPractice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/ittisha17/CodingPractice/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/ittisha17/CodingPractice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ittisha17/CodingPractice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ittisha17/CodingPractice/tree/master/0231-power-of-two) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ittisha17/CodingPractice/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ittisha17/CodingPractice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ittisha17/CodingPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ittisha17/CodingPractice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ittisha17/CodingPractice/tree/master/0062-unique-paths) |
