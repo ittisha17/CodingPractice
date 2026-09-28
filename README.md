@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/ittisha17/CodingPractice/tree/master/0981-time-based-key-value-store) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ittisha17/CodingPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Array
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/ittisha17/CodingPractice/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1856-maximum-subarray-min-product](https://github.com/ittisha17/CodingPractice/tree/master/1856-maximum-subarray-min-product) |
 ## Prefix Sum
 |  |
@@ -828,4 +830,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
