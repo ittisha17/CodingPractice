@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ittisha17/CodingPractice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ittisha17/CodingPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ittisha17/CodingPractice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/ittisha17/CodingPractice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ittisha17/CodingPractice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0336-palindrome-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/ittisha17/CodingPractice/tree/master/0354-russian-doll-envelopes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ittisha17/CodingPractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0474-ones-and-zeroes) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ittisha17/CodingPractice/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ittisha17/CodingPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ittisha17/CodingPractice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ittisha17/CodingPractice/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0336-palindrome-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0336-palindrome-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/ittisha17/CodingPractice/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
