@@ -37,14 +37,14 @@ public:
                 string left="",right="";
                 left=w.substr(0,k);
                 right=w.substr(k);
-                if(isPal(left))
+                if(k!=0 && isPal(left))
                 {  
                     string rev_r=right;
                      reverse(rev_r.begin(),rev_r.end());
                     if(mp.find(rev_r)!=mp.end() && mp[rev_r]!=i)
                      res.push_back({mp[rev_r],i});
                 }
-                if(k!= w.length() && isPal(right))
+                if(isPal(right))
                 {
                      string rev_l=left;
                      reverse(rev_l.begin(),rev_l.end());
