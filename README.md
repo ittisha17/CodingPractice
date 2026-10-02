@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0336-palindrome-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/ittisha17/CodingPractice/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/ittisha17/CodingPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ittisha17/CodingPractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0493-reverse-pairs) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ittisha17/CodingPractice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/ittisha17/CodingPractice/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/ittisha17/CodingPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/ittisha17/CodingPractice/tree/master/0650-2-keys-keyboard) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ittisha17/CodingPractice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ittisha17/CodingPractice/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -852,4 +855,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ittisha17/CodingPractice/tree/master/0084-largest-rectangle-in-histogram) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ittisha17/CodingPractice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
