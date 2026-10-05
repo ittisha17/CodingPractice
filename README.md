@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ittisha17/CodingPractice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ittisha17/CodingPractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ittisha17/CodingPractice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ittisha17/CodingPractice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ittisha17/CodingPractice/tree/master/0058-length-of-last-word) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ittisha17/CodingPractice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ittisha17/CodingPractice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0094-binary-tree-inorder-traversal) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ittisha17/CodingPractice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ittisha17/CodingPractice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ittisha17/CodingPractice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ittisha17/CodingPractice/tree/master/0045-jump-game-ii) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
