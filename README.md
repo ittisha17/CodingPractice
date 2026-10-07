@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ittisha17/CodingPractice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ittisha17/CodingPractice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/ittisha17/CodingPractice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ittisha17/CodingPractice/tree/master/0424-longest-repeating-character-replacement) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ittisha17/CodingPractice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ittisha17/CodingPractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/ittisha17/CodingPractice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ittisha17/CodingPractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ittisha17/CodingPractice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/ittisha17/CodingPractice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ittisha17/CodingPractice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ittisha17/CodingPractice/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/ittisha17/CodingPractice/tree/master/0980-unique-paths-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/ittisha17/CodingPractice/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
