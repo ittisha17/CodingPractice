@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ittisha17/CodingPractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ittisha17/CodingPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/ittisha17/CodingPractice/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ittisha17/CodingPractice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ittisha17/CodingPractice/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/ittisha17/CodingPractice/tree/master/0137-single-number-ii) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ittisha17/CodingPractice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ittisha17/CodingPractice/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ittisha17/CodingPractice/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/ittisha17/CodingPractice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ittisha17/CodingPractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ittisha17/CodingPractice/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/ittisha17/CodingPractice/tree/master/0174-dungeon-game) |
