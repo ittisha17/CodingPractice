@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/ittisha17/CodingPractice/tree/master/1975-maximum-matrix-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ittisha17/CodingPractice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/ittisha17/CodingPractice/tree/master/2305-fair-distribution-of-cookies) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ittisha17/CodingPractice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -884,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ittisha17/CodingPractice/tree/master/0416-partition-equal-subset-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ittisha17/CodingPractice/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
