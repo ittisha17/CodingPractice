@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/ittisha17/CodingPractice/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/ittisha17/CodingPractice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0856-score-of-parentheses) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ittisha17/CodingPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ittisha17/CodingPractice/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/ittisha17/CodingPractice/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/ittisha17/CodingPractice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ittisha17/CodingPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1975-maximum-matrix-sum](https://github.com/ittisha17/CodingPractice/tree/master/1975-maximum-matrix-sum) |
 ## Math
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ittisha17/CodingPractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ittisha17/CodingPractice/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/ittisha17/CodingPractice/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/ittisha17/CodingPractice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ittisha17/CodingPractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ittisha17/CodingPractice/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0856-score-of-parentheses) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/ittisha17/CodingPractice/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/ittisha17/CodingPractice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ittisha17/CodingPractice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/ittisha17/CodingPractice/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ittisha17/CodingPractice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -877,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ittisha17/CodingPractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ittisha17/CodingPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ittisha17/CodingPractice/tree/master/1021-remove-outermost-parentheses) |
