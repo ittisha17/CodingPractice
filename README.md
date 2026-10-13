@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/ittisha17/CodingPractice/tree/master/2305-fair-distribution-of-cookies) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ittisha17/CodingPractice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ittisha17/CodingPractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ittisha17/CodingPractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ittisha17/CodingPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1975-maximum-matrix-sum](https://github.com/ittisha17/CodingPractice/tree/master/1975-maximum-matrix-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ittisha17/CodingPractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ittisha17/CodingPractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ittisha17/CodingPractice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ittisha17/CodingPractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ittisha17/CodingPractice/tree/master/1657-determine-if-two-strings-are-close) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ittisha17/CodingPractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
