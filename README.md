@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ittisha17/CodingPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1975-maximum-matrix-sum](https://github.com/ittisha17/CodingPractice/tree/master/1975-maximum-matrix-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ittisha17/CodingPractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ittisha17/CodingPractice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ittisha17/CodingPractice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ittisha17/CodingPractice/tree/master/0371-sum-of-two-integers) |
 | [0650-2-keys-keyboard](https://github.com/ittisha17/CodingPractice/tree/master/0650-2-keys-keyboard) |
 | [1406-stone-game-iii](https://github.com/ittisha17/CodingPractice/tree/master/1406-stone-game-iii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ittisha17/CodingPractice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
 | ------- |
