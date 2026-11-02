@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/ittisha17/CodingPractice/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/ittisha17/CodingPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ittisha17/CodingPractice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ittisha17/CodingPractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/ittisha17/CodingPractice/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/ittisha17/CodingPractice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ittisha17/CodingPractice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ittisha17/CodingPractice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ittisha17/CodingPractice/tree/master/0371-sum-of-two-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ittisha17/CodingPractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0650-2-keys-keyboard](https://github.com/ittisha17/CodingPractice/tree/master/0650-2-keys-keyboard) |
 | [1406-stone-game-iii](https://github.com/ittisha17/CodingPractice/tree/master/1406-stone-game-iii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ittisha17/CodingPractice/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ittisha17/CodingPractice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ittisha17/CodingPractice/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/ittisha17/CodingPractice/tree/master/0354-russian-doll-envelopes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ittisha17/CodingPractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/ittisha17/CodingPractice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ittisha17/CodingPractice/tree/master/0721-accounts-merge) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ittisha17/CodingPractice/tree/master/1235-maximum-profit-in-job-scheduling) |
